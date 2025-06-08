@@ -10,7 +10,7 @@ Atualmente, tenho como objetivo atuar com soluções Power Apps e Power Automate
 Platform, com ênfase na otimização e automação de processos e integração com diferentes fontes de dados,
 incluindo sistemas ERP, CRM e plataformas como o Microsoft Dynamics 365.
 Durante meu aperfeiçoamento em Power Apps, desenvolvi projetos de aplicativos low-code, criando e
-otimizando fluxos de trabalho e automatizando processos, assim como a prática com fórmulas e variáveis
+otimizando fluxos de trabalho e automatizando processos, assim como a prática com fórmulas  e variáveis
 para manipulação e envio de dados, criação de interfaces intuitivas e integração com serviços do Microsoft
 365, além disso, possuo conhecimento em Power BI, incluindo criação de relatórios e dashboards para
 visualização e análise de dados.
