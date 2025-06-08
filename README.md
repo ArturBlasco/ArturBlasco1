@@ -24,7 +24,7 @@ eficientes, focadas na melhoria contínua e na transformação digital de proces
 - **Experiência Profissional:**
 
 
-  - **Desenvolvedor Low-code** Transição de Carreira (2024 – Atual): Atuação no processo de vendas, com foco em análise de dados, planejamento de campanhas e gestão de CRM.
+  - **Desenvolvedor Low-code** Transição de Carreira (2024 – Atual):  Atuação no processo de vendas, com foco em análise de dados, planejamento de campanhas e gestão de CRM.
 
   - **Auxiliar de Processos** na Bradesco Seguros (2017 – 2023): Atuação no processo de vendas, com foco em análise de dados, planejamento de campanhas e gestão de CRM.
 
